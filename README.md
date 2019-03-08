@@ -14,5 +14,5 @@
 * **Teacher**：**Y.Li, from SDNU, School of Information Science and Engineering.**  
 * **Time**：**2019a**
 
-## 3. Statement
+## 3. Statements
 ### **The code is for reference only.**
