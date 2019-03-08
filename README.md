@@ -2,7 +2,7 @@
 ## 1. Textbook  
 * **《Java语言程序设计（基础篇）》**   
 * **Written by Y.Daniel Liang**  
-* **Link**:**[Java语言程序设计（基础篇 原书第10版）](https://book.douban.com/subject/26590745/)**  
+* **Link**：**[Java语言程序设计（基础篇 原书第10版）](https://book.douban.com/subject/26590745/)**  
 
 <img src="https://gd1.alicdn.com/imgextra/i4/0/TB1JBfyufImBKNjSZFlXXc43FXa_!!0-item_pic.jpg" width="200" height="" alt="《Java语言程序设计（基础篇 原书第10版）》"/>  
 
